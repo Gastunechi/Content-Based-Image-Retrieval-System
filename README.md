@@ -1,7 +1,7 @@
 # Content-Based-Image-Retrieval-System
 This project implements a content-based image retrieval system using color and shape features to compare images. The system takes a query image as input and returns the N closest images from the database in terms of similarity.
 
-Objective
+##Objective
 The goal of this project is to develop a system capable of finding the images most similar to a given image using two types of features:
 
 Colors: Comparison of color histograms.
